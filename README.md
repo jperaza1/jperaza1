@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2>I'm José Peraza! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**jperaza1/jperaza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jos%C3%A9-enrique-peraza-santamaria-b83097147/)
 
-Here are some ideas to get you started:
+### 👨‍💻  A little more about me... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+export default () => ({
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "webdev", "tech", "music",
+    "gamming"
+  ],
+  technologies: {
+    frontEnd: {
+      js: [React, Angular],
+      css: [Materializecss, Material-ui, Bootstrap]
+    },
+    backEnd: {
+      js: [Node, Express, Graphql],
+      csharp: [Asp.net Core, Asp.net],
+    },
+    mobile : [Mobile Web / PWA, Android]
+    databases: [Sql Server, MySql, Postgress, Mongodb]
+  },
+  tools: [Redux, Jest, Crypress ,Docker, Typescript]
+});
+```
