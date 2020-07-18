@@ -23,9 +23,9 @@ export default () => ({
       js: [Node, Express, Graphql],
       csharp: [Asp.net Core, Asp.net],
     },
-    mobile : [Mobile Web / PWA, Android]
+    mobile : [Mobile Web / PWA, Android],
     databases: [Sql Server, MySql, Postgress, Mongodb]
   },
-  tools: [Redux, Jest, Crypress ,Docker, Typescript]
+  tools: [Redux, Jest, Crypress ,Docker, Typescript],
 });
 ```
