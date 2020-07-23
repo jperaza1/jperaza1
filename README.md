@@ -26,6 +26,7 @@ export default () => ({
     mobile : [Mobile Web / PWA, Android],
     databases: [Sql Server, MySql, Postgress, Mongodb]
   },
-  tools: [Redux, Jest, Crypress ,Docker, Typescript],
+  tools: [Redux, Jest, Crypress ,Docker, Typescript, Git],
 });
 ```
+![jperaza1 github stats](https://github-readme-stats.vercel.app/api?username=jperaza1&show_icons=true&theme=tokyonight)
